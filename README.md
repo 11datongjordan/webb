@@ -12,8 +12,8 @@ Features Section: A grid layout to display treats like cupcakes, cakes, and maca
 Testimonials Section: A carousel to showcase customer reviews.
 Instructions to View or Edit the Project
 To View the Project
-Visit the live site hosted on GitHub Pages:
-https://yourusername.github.io/repository-name (Replace with your actual GitHub Pages URL).
+Visit the live site hosted on netlify:
+(https://elegant-cupcake-9d0f8e.netlify.app/)
 To Edit the Project
 Clone the repository:
 Open the project in a code editor like Visual Studio Code.
